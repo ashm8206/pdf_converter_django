@@ -10,8 +10,8 @@ Date:   09/16/24
 - [Project](#project)
 - [Architecture](#architecture)
 - [Code design](#code-design)
-- [Run Job](#run-job)
-- [Output](#check-output)
+- [Run Job](#running-job)
+- [Output](#output)
 - [References](#references)
 
 ## Project
@@ -28,7 +28,7 @@ Use Distributed task Queue Celery with Redis Backend to perform long-running tas
 
 ## Code design
 
-![Code Organization ](./pdf_converter_django/blob/main/img_to_pdf_app/imgs/CodeOrganization.png)
+![Code Organization ](https://github.com/ashm8206/pdf_converter_django/blob/main/img_to_pdf_app/imgs/CodeOrganization.png)
 
 ## Running job
 
@@ -87,15 +87,15 @@ python3 manage.py runserver
 
 ### Landing Page
 
-![Landing](./pdf_converter_django/blob/main/img_to_pdf_app/imgs/IndexPage.png)
+![Landing](https://github.com/ashm8206/pdf_converter_django/blob/main/img_to_pdf_app/imgs/IndexPage.png)
 
 ### Wait for Process Page
 
-![Wait](./pdf_converter_django/blob/main/img_to_pdf_app/imgs/Async_Run_wait_page.png)
+![Wait](https://github.com/ashm8206/pdf_converter_django/blob/main/img_to_pdf_app/imgs/Async_Run_wait_page.png)
 
 ### PDF Converted Page
 
-![Converted](./pdf_converter_django/blob/main/img_to_pdf_app/imgs/Converted_Page.png)
+![Converted](https://github.com/ashm8206/pdf_converter_django/blob/main/img_to_pdf_app/imgs/Converted_Page.png)
 
 ## References
 
